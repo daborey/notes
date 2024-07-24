@@ -1,0 +1,8 @@
+https://www.googleapis.com/drive/v3/files/file-ID?alt=media&key=APIKey
+
+fileid is the id get from video share link
+apikey is getting from google console
+
+apikey: AIzaSyAQN-djXJ4PbFtHWgnni9U2qpgc6oMtWtI
+
+https://www.googleapis.com/drive/v3/files/1NeyjAR3uTgLrDU-LlALJMn0lNGm68ExP?alt=media&key=AIzaSyAQN-djXJ4PbFtHWgnni9U2qpgc6oMtWtI
