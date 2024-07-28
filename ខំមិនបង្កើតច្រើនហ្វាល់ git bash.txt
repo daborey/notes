@@ -1,0 +1,4 @@
+touch index5.html
+touch style5.css
+touch script5.js
+mkdir images
