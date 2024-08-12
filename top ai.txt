@@ -1,0 +1,3 @@
+gemini.google.com
+https://copilot.microsoft.com/
+https://chatgpt.com/ (without account or account)
