@@ -1,0 +1,2 @@
+Popup ad detector and blocker
+greenify
