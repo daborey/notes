@@ -1,0 +1,6 @@
+camID: metfone
+
+smart nas: smart
+
+cellcard: cellcard
+
