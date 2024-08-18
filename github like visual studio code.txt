@@ -1,1 +1,4 @@
 https://github.dev/
+
+https://github.dev/username/repository-name
+https://github.dev/daborey/notes
