@@ -14,3 +14,16 @@ iPhone 12 Pro, iPhone 12 Pro Max, iPhone 12 Mini, iPhone SE 2nd Gen, iPhone SE 3
 Press once and quickly release the volume up button. Press once and quickly release the volume down button.Then press and hold the side button 
 until you see the recovery mode screen.
 
+exit recovery mode
+
+
+Unplug the device from the USB cable.
+
+Hold down the Side and either Volume button, and then drag the slider to power the iPhone off.
+
+Depending on your model, you may need to hold the Sleep/Wake button on the top of the device.
+
+Keep holding until the Apple logo reappears.
+
+Let go of the button and the device will start up. 
+
