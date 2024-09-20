@@ -31,3 +31,6 @@ Connected Devices
         Main SSID DESKTOP-343QP1G
         192.168.0.172
         00:F4:8D:7F:F4:71
+	7
+	192.168.0.171
+	CE:B5:E0:18:93:99
