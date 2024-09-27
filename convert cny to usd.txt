@@ -1,0 +1,10 @@
+1usd = x¥ (https://www.ababank.com/forex-exchange/)
+ y$   = z¥ (price of goods)
+
+y$ = (1usd x z¥) / x¥
+
+example
+z¥ = 3.50 price of good
+x¥= 7.245088 exchange currency
+
+y$ = (1x3.5)/7.245088 
