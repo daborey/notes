@@ -1,0 +1,12 @@
+It seems like you don't connect to my previous writing you just give me new topic while I talk about manage my student
+
+html support khmer language
+navigation with ទំព័រដើម អំពីគ្រូបូរី ទំនាក់ទំនង
+body with heading="គ្រូបូរី" description="វេបសាយបង្រៀនដល់សិស្ស" table
+with one table name age sex class name generate fake data 10 rows
+footer="copyright គ្រូបូរី" 
+all of it​ with responsive design and colorful style I made it for kids
+I want separate css
+
+បើខុស 
+generate html and css again don't forget navigation
