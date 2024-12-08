@@ -95,6 +95,10 @@ buy license
 buy license software
 https://www.lizensio.de/
 https://www.mmoga.de
+https://office-365.ru/
+https://softnet.su/
+https://softcomputers.org/
+https://vipkeys.net/
 
 
 active all windows version active window 10/11
@@ -114,4 +118,53 @@ https://massgrave.dev/
 https://files.rg-adguard.net/ auth key: FreeTrial
 https://www.deskmodder.de/blog/
 
+download windows and microsoft office
+https://office-365.ru/download/
+https://windowsbit.net/
+https://softcomputers.org/en/download/
 
+how to download official from microsoft officially
+https://softcomputers.org/en/blog/installation-of-office-ltsc-2021-instructions/
+
+-------------------------------------------------------------------------------
+restart wifi network
+netsh interface show interface (show network name)
+
+Admin State    State          Type             Interface Name
+-------------------------------------------------------------------------
+Enabled        Disconnected   Dedicated        Ethernet
+Enabled        Connected      Dedicated        Wi-Fi
+Enabled        Disconnected   Dedicated        Ethernet 2
+
+netsh interface set interface "Wi-Fi" admin=disabled (off)
+
+netsh interface set interface "Wi-Fi" admin=enabled (on)
+
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+show driver name whether we have installed it or not yet
+
+netsh wlan show drivers
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+find cpu os versoin ram processor model bios version and more
+systeminfo
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+list all installed devices
+wmic computersystem get caption, model, manufacturer, systemtype
+
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+
+list all drivers
+wmic sysdriver list full
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+show pnp to get correct wifi driver
+wmic path win32_networkadapter get PNPDeviceID
+-------------------------------------------------------------------------------

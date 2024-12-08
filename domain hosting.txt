@@ -1,0 +1,9 @@
+dbtechsolutionskh.com
+dbfontskh.com
+
+----------------------------------------------------------------------------
+how to link namecheap domain to github custom domain
+https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/
+after configure that go to github->page->custom domain->add dbfontskh.com (without www)
+to enable https: enforce https: below
+----------------------------------------------------------------------------
