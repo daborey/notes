@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f0f0;  /* Light gray background */
+  font-family: Arial, sans-serif; /* Arial font */
+  font-size: 16px;              /* Standard font size */
+  color: #333;                 /* Dark gray text */
+  margin: 0;                   /* No margin around the body */
+  padding: 20px;               /* Padding inside the body */
+  text-align: center;          /* Center align text */
+  line-height: 1.6;            /* Set line height for better readability */
+  height: 100vh;               /* Full viewport height */
+}
+

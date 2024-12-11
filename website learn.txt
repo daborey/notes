@@ -1,0 +1,34 @@
+body {
+  background-color: #f0f0f0;  /* Light gray background */
+  font-family: Arial, sans-serif; /* Arial font */
+  font-size: 16px;              /* Standard font size */
+  color: #333;                 /* Dark gray text */
+  margin: 0;                   /* No margin around the body */
+  padding: 20px;               /* Padding inside the body */
+  text-align: center;          /* Center align text */
+  line-height: 1.6;            /* Set line height for better readability */
+  height: 100vh;               /* Full viewport height */
+}
+
+
+CSS Unit Categories
+
+    Absolute Units:
+        Fixed sizes that don’t change based on the screen size or resolution.
+        Examples:
+            px (pixels)
+            cm (centimeters)
+            mm (millimeters)
+            in (inches)
+            pt (points)
+            pc (picas)
+
+    Relative Units:
+        Sizes that adjust based on other elements or the screen size.
+        Examples:
+            % (percentage)
+            em, rem (relative to font sizes)
+            vw, vh (viewport width/height)
+            vmin, vmax (minimum/maximum viewport size)
+
+
