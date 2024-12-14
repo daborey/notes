@@ -187,3 +187,9 @@ wmic sysdriver list full
 show pnp to get correct wifi driver
 wmic path win32_networkadapter get PNPDeviceID
 -------------------------------------------------------------------------------
+
+download bulk image multi images
+https://karanpc.com/bulk-image-downloader-free-download/
+
+multi tasks program
+name:Bulk rename utility (bulk multi rename) https://www.youtube.com/watch?v=hdTsHx_pXD8

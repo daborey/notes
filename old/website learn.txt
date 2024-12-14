@@ -31,4 +31,8 @@ CSS Unit Categories
             vw, vh (viewport width/height)
             vmin, vmax (minimum/maximum viewport size)
 
+generate powershell without restriction
+powershell -ExecutionPolicy Bypass -File .\generate-fonts.ps1
 
+sample file video
+https://www.sample-videos.com/
