@@ -1,0 +1,16 @@
+Description:
+
+    Product Name: true wireless stereo music call headset
+
+    Product model; tws-19
+    Bluetooth version / Bluetooth chip: Jerry JL: 6983
+    Support protocols: HFP, HSP, A2DP, AVRCP
+    Bluetooth distance: 10M
+    Working voltage: 3.7V
+    Horn impedance; 32 Ω
+    Horn power 3MW (0.3V) max
+    Battery / battery compartment specification (capacity): 30mah / 3.7V 320mah / 3.7V
+    Call duration ≈ 3H
+    Music playing duration: 5h
+    Color: sandstone black, cloud white, cherry blossom pink, twilight purple
+    Material: ABS
