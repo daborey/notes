@@ -1,0 +1,8 @@
+ai create music: udio
+
+create a responsive website camptable with phone tablet and pc name of folder: official-ministry-websites
+
+- create a responsive bootstrap website camptable with phone tablet and pc name of folder: official-ministry-websites
+- add dummy navigation
+- add 3 divide parts left side, main side(bigger than those two in the middle) and right side. Add dummy picture and text.
+- add 10 dummy links to main part
